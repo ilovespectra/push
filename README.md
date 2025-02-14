@@ -6,7 +6,7 @@ A react hook and some helpers/extra typing for [GenesysGo's](https://shdw.genesy
 
 Note: Package API subject to change often in near future
 
-[Material UI Example App](push-snowy.vercel.app)
+[Material UI Example App](https://push-snowy.vercel.app)
 
 ## Setup
 
